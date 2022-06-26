@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
                 "Ceren Akyar",
                 style: TextStyle(
                   fontSize: 30.0,
-                  color: Colors.pink[100],
+                  color: Colors.pink[200],
                   fontWeight: FontWeight.bold,
                   fontFamily: "Pacifico",
                 ),
